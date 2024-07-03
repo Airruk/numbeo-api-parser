@@ -1,0 +1,4 @@
+```txt
+requests
+python-dotenv
+```
